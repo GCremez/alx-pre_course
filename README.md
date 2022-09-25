@@ -1,1 +1,1 @@
-My first readme
+Hello  my name is salau oluwole, this is my first readme file and my first bootcamp project in becoming a full-stack developer... I can keep checking on my profile for great things i will be push everytime from my program. Thanks
